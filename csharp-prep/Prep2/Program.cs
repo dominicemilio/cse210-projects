@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    // Main is the starting point
+    // Main is the starting point 
     static void Main(string[] args)
     {
         // Ask user for their grade
