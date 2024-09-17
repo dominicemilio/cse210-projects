@@ -2,7 +2,6 @@ using System;
 
 class Program
 {
-    // Main is the starting point
     static void Main(string[] args)
     {
         // Ask the user for their name and surname
