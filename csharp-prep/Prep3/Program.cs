@@ -30,7 +30,7 @@ class Program
 
             // If correct congratulate them
             else
-                Console.WriteLine("You've got the number!");
+                Console.WriteLine("You've got the number! the number is " + magicNumber);
         } while (guess != magicNumber);
     }
 }
