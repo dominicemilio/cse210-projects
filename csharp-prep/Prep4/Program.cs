@@ -9,7 +9,7 @@ class Program
 
         int userNumber;
 
-        // I'll use a do-while loop
+        // I'll use a do-while loop this time
         do
         {
             Console.Write("Enter a whole number or 0 to quit): ");
